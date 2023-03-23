@@ -43,11 +43,7 @@ bottomNavigationBar: FlashyTabBar(
         ),
         FlashyTabBarItem(
           icon: Icon(Icons.settings),
-          title: Text('Settings'),
-        ),
-        FlashyTabBarItem(
-          icon: Icon(Icons.settings),
-          title: Text('한국어'),
+          title: Text('Chaitanya'),
         ),
       ],
 ),
