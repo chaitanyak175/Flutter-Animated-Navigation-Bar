@@ -6,11 +6,6 @@ This is actually inspired by cuberto's navigation theme design.
 
 ![Animation](https://raw.githubusercontent.com/leesnhyun/flashy_tab_bar/master/docs/animation.gif)
 
-## Preview
-
-| Android  | iOS  |
-| :------------------- | -------------------: |
-| <img src="https://raw.githubusercontent.com/leesnhyun/flashy_tab_bar/master/docs/emulator-android.gif" height="714">  | <img src="https://raw.githubusercontent.com/leesnhyun/flashy_tab_bar/master/docs/emulator-ios.gif" height="714"> |
 
 ## Getting Started
 
