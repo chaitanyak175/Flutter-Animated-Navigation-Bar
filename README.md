@@ -1,6 +1,9 @@
 This is custom Navigation Bar with Animated Logo.
 This is actually inspired by cuberto's navigation theme design.
 
+
+
+
 ![Animation](https://raw.githubusercontent.com/leesnhyun/flashy_tab_bar/master/docs/animation.gif)
 
 ## Preview
